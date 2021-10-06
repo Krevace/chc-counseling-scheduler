@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CollegeSchedulingDesktopAppMain", "CollegeSchedulingDesktopAppMain\CollegeSchedulingDesktopAppMain.csproj", "{F126C7F0-3C48-44BD-BF3C-0AF9C2C43A90}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "CHC Meeting Scheduler Installer", "CHC Meeting Scheduler Installer\CHC Meeting Scheduler Installer.vdproj", "{1BFAA052-CE9B-402F-AF61-DB6E45FE06DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F126C7F0-3C48-44BD-BF3C-0AF9C2C43A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F126C7F0-3C48-44BD-BF3C-0AF9C2C43A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F126C7F0-3C48-44BD-BF3C-0AF9C2C43A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F126C7F0-3C48-44BD-BF3C-0AF9C2C43A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BFAA052-CE9B-402F-AF61-DB6E45FE06DB}.Debug|Any CPU.ActiveCfg = Release
+		{1BFAA052-CE9B-402F-AF61-DB6E45FE06DB}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7BCB7697-2E1C-44B0-81EA-EDEA3063A16F}
+	EndGlobalSection
+EndGlobal
