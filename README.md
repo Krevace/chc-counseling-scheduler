@@ -1,6 +1,6 @@
 # CHC College Counseling Scheduling App
 
-During my Intro to Engineering class in my sophomore year at CHC, we had the opportunity to take up several projects around the school. The project [Tripp](https://github.com/PureTrippH/Dolphin-Office-Booking-App/edit/main/README.md) and myself decided to take on was an appointment scheduling app for the College Counseling Office. The office originally requested the app because of the overwhelming inefficiency when it came to using email to schedule appointments with the student body.
+During my Intro to Engineering class in my sophomore year at CHC, we had the opportunity to take up several projects around the school. The project [Tripp](https://github.com/PureTrippH/Dolphin-Office-Booking-App) and myself decided to take on was an appointment scheduling app for the College Counseling Office. The office originally requested the app because of the overwhelming inefficiency when it came to using email to schedule appointments with the student body.
 
 ## Counselor's Component (Windows Application)
 
